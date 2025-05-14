@@ -17,7 +17,7 @@
 ├── edit.php / delete.php ← แก้ไข/ลบข้อมูล
 ├── styles.css            ← ตกแต่ง UI
 ├── images.sql            ← ไฟล์สร้างตารางในฐานข้อมูล
-├── images.sql            ← ไฟล์สร้างตารางในฐานข้อมูล
+├── draw_face_structure.ipynb  ← ไฟล์ jupyternotebook สำหรับทดลองทำ ตรวจจับฝ้าแนะนำให้ใช้งานบน google colab
 └── images/               ← เก็บรูปต้นฉบับและผลลัพธ์
 
 ```
