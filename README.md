@@ -47,7 +47,7 @@ C:\xampp\htdocs\facial\_project\\
 เปิดไฟล์ `db.php` แล้วตั้งค่าตามนี้:
 ```php
 <?php
-$conn = new mysqli("localhost", "root", "", "image_db");
+$conn = new mysqli("localhost", "root", "", "image_upload_db");
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
